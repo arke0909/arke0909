@@ -1,15 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=arke0909_World&fontSize=50&animation=fadeIn&fontColor=00FFDD)
+<style type = "text/css">
+@font-face {
+    font-family: '양진체';
+    src: url('https://fastly.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body
+{
+font family : '양진체';
+}
+</style>
 
-# Welcome to my Github repository
+# <center> Welcome to my Profile <center>
 
-> *안녕하세요* <br>**응애**
 
 
 [![arke0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=arke0909)](https://github.com/anuraghazra/github-readme-stats)
 
-**I Practice this**
+# <center> Practice Tool</center>
+
+<center>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-40AEF0?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/C-006600?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudio-DD0700?style=for-the-badge&logo=ViSualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/C++
+-181717?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+</center>
+<br>
+
+# <center> 수상이력 </center>
+<center>  <sapn class="font-bold" style="font-family:양진체; font-size:2em;">1학기 </span> </center>
+
+
+---
