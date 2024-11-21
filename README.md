@@ -1,15 +1,4 @@
-<style type = "text/css">
-@font-face {
-    font-family: '양진체';
-    src: url('https://fastly.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-body
-{
-font family : '양진체';
-}
-</style>
+
 
 # <center> Welcome to my Profile <center>
 
