@@ -1,15 +1,4 @@
 <style>
-@font-face {
-    font-family: '양진체';
-    src: url('https://fastly.jsdelivr.net/gh/supernovice-lab/font@0.9/yangjin.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-*
-{
-font-family : '양진체', Arial, sans-serif;
-}
 
 h2 {
     font-weight: normal;
