@@ -21,8 +21,4 @@
 <img src="https://img.shields.io/badge/C++
 -181717?style=for-the-badge&logo=cplusplus&logoColor=white">
 
-<br>
-:trophy:
-<span style ="font-size:2.5em;">수상이력</span> 
-:trophy:
 
