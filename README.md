@@ -10,8 +10,9 @@
 -------------
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arke0909)](https://solved.ac/arke0909/)
 
-![arke0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=arke0909&show_icons=true&theme=swift )
+
 -------------
 Practice Tool
 -------------
